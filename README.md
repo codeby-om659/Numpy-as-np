@@ -2,7 +2,13 @@
 > **Intro:** It is the foundational open source library for scientific and numerical computing in python.It provides support for large,
 multidimensional arrays and matrices, along with a collection of high level mathematical functions to operate on them functionally.
 ---
+<p align="center">
+  <img src="./numpy.png" alt="NumPy Banner" width="200%">
+</p>
 
+<h1 align="center">NumPy 🚨</h1>
+
+<p align="center">
 ## 💡ADVANTAGES 
 1. **EXECUTION SPEED:** Written primarily in C, NumPy bypasses Python runtime overhead. NumPy arrays are up to 10-100 times faster than equivalent Python list.
 2. **MEMORY EFFICENCY:** Standard python list store pointers to individual objects dispersed in memory. NumPy array store homogenous data in contiguous memory
