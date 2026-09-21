@@ -3,7 +3,7 @@
 multidimensional arrays and matrices, along with a collection of high level mathematical functions to operate on them functionally.
 ---
 
-## ADVANTAGES 
+## 💡ADVANTAGES 
 1. **EXECUTION SPEED:** Written primarily in C, NumPy bypasses Python runtime overhead. NumPy arrays are up to 10-100 times faster than equivalent Python list.
 2. **MEMORY EFFICENCY:** Standard python list store pointers to individual objects dispersed in memory. NumPy array store homogenous data in contiguous memory
  blocks,reducing memory footprint significantly
