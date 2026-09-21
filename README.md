@@ -1,4 +1,4 @@
-# NumPy : (Library of python)
+# NumPy : 📃(Library of python)
 > **Intro:** It is the foundational open source library for scientific and numerical computing in python.It provides support for large,
 multidimensional arrays and matrices, along with a collection of high level mathematical functions to operate on them functionally.
 ---
@@ -12,7 +12,7 @@ multidimensional arrays and matrices, along with a collection of high level math
 5. **ECOSYSTEM INTEGERATION:** Serves as the core building block for almost all major Python data analysis and AI libraries
 
 ---
-## METHODS
+## 📌METHODS
 1. **CREATE ARRAY:**
 2. **FIND SHAPE&SIZE:**
 3. **INSERT:**
